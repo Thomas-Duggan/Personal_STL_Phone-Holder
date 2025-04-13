@@ -7,7 +7,7 @@ Prevents phone movement on stand, and prevents stand from falling on user.
 ## Issues
 
 - Not adjustable
-- Weighted section may snap off 
+- Phone holding section may snap off
 - No support for vertical mode
 
 
