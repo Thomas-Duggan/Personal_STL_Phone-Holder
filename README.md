@@ -1,6 +1,6 @@
 ## Purpose
 
-Holds phones with or without a popsocket.
+Holds phones with or without a PopSocket.
 Prevents phone movement on stand, and prevents stand from falling on user.
 
 
